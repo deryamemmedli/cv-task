@@ -1,12 +1,16 @@
 div{
-    margin-left: 30px;
+    width: 50%;
+    margin-left: 30px; 
+    margin: auto;
+    background-color: antiquewhite;
+    padding: 30px;
 }
 
 img{
     width: 120px;
     margin-left: 50px;
     display: inline-block;
-    border-radius: 20px;
+    border-radius: 100px;
     border: solid rgb(53, 21, 4) 4px;
 }
 
