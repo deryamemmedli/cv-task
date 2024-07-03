@@ -1,0 +1,44 @@
+div{
+    margin-left: 30px;
+}
+
+img{
+    width: 120px;
+    margin-left: 50px;
+    display: inline-block;
+    border-radius: 20px;
+    border: solid rgb(53, 21, 4) 4px;
+}
+
+.h3_1{
+    border-bottom: solid black 2px;
+    color: rgb(213, 90, 18);
+
+}
+
+.h3_2{
+    border-bottom: solid black 2px;
+    color: rgb(213, 90, 18);
+
+}
+
+.h3_3{
+    border-bottom: solid black 2px;
+    color: rgb(213, 90, 18);
+
+}
+
+.h3_about{
+    border-bottom: solid black 2px;
+    color: rgb(213, 90, 18);
+}
+
+.pname{
+    display: inline-block;
+    font-size: 30px;
+    border-bottom: dashed rgb(213, 90, 18) 2px;
+    color: black;
+    /* background-color: rgb(247, 202, 177); */
+
+    
+}
